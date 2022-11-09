@@ -1,0 +1,6 @@
+47d46
+< #ifdef __FreeBSD__
+49,51d47
+< #else
+< #include <iniparser/iniparser.h>
+< #endif
